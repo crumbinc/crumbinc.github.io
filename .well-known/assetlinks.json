@@ -1,0 +1,27 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "au.crumb.app",
+      "sha256_cert_fingerprints": [
+        "4A:C4:95:B8:AC:17:47:73:2F:FE:B2:A0:7A:BF:7A:E7:E9:2C:5D:9F:70:E6:6B:3B:A8:2A:65:F3:3F:F2:53:65",
+        "54:54:0C:65:CB:05:E5:F0:D4:C5:3A:64:6E:AF:C5:38:CE:44:21:1B:46:7F:00:C7:44:44:6F:7F:F4:79:30:AF"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "au.crumb.app.debug",
+      "sha256_cert_fingerprints": [
+        "11:9F:AD:CE:21:4C:D1:15:CD:0A:D9:93:F5:0A:6E:CE:6D:53:C9:46:18:FD:22:D2:4C:20:1D:8B:27:EB:A2:9B"
+      ]
+    }
+  }
+]
